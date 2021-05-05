@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-languageCode = "en"
+baseURL = "https://bonetticustom.com"
+languageCode = "es"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo"
 summaryLength = "20"
@@ -33,7 +33,7 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Products"
+  name = "Productos"
   URL = "products"
   weight = 1
 
@@ -48,13 +48,13 @@ disqusShortname = ""
   weight = 3
 
   [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 4
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Productos"
   URL = "products"
   weight = 1
 
@@ -69,12 +69,12 @@ disqusShortname = ""
   weight = 3
 
   [[menu.footer]]
-  name = "Terms & Conditions"
+  name = "Terminos y Condiciones"
   URL = "terms-conditions"
   weight = 4
 
   [[menu.footer]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 5
 
@@ -84,21 +84,16 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Nos apasionan las motos tanto como a ti."
 author = "Themefisher"
-# google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+34"
+email = "bonetticustom@outlook.com"
+location = "Barcelona, España"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 [Bonetti Custom](https://bonetticustom.com) Todos los derechos reservados |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
@@ -118,23 +113,11 @@ currencySymbol = "$"
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
+  link = "https://www.facebook.com/Bonetti-custom-111111324391961/"
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+  link = "https://www.instagram.com/bonetticustom/"
 
   # Contact Form
   [params.contact]
